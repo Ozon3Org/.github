@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there!
 
-<!--
+Ozon3 is a collection of open-source air quality packages, that provide live, historical and forecasted air quality data for almost any city in the world!
 
-**Here are some ideas to get you started:**
+It currently consists of a stable release Python package - `ozon3` on PyPI
+The Ozon3 Dart package is currently in developement too!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ozon3 is based on the incredible WAQI API and makes it instantly accessible to even beginner programmers!
+
+## Contribution guidelines
+
+All of Ozon3 is entirely open-source, and we love contributors! 
+
